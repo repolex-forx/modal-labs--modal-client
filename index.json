@@ -1,0 +1,11 @@
+{
+  "org": "modal-labs",
+  "repo": "modal-client",
+  "versions": [
+    {
+      "commit": "47cbc08b809a4a6efd5e5f0f271ec67276fb8e56",
+      "tag": "",
+      "parsed_at": "2026-10-17T10:32:59.754265+00:00"
+    }
+  ]
+}
