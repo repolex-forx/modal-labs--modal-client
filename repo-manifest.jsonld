@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/modal-client/commit/47cbc08b809a4a6efd5e5f0f271ec67276fb8e56",
       "git:hexsha": "47cbc08b809a4a6efd5e5f0f271ec67276fb8e56",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T10:32:59.747566+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modal-labs/modal-client/commit/e98d535c455f1c9890d8bd352df4fa5d77d0a7f2",
